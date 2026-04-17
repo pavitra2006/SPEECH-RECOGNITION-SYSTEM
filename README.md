@@ -1,5 +1,5 @@
 # Speech-to-Text Project (TASK-2)
-
+COMPANY : CODTECH IT SOLUTIONS NAME : PAVITRA SAVARAPU INTERN ID : CTIS7186 DOMAIN : Artificial Intelligence DURATION : 6 WEEKS MENTOR : NEELA SANTOSH
 *DESCRIPTION*:
 The main.py is a Streamlit-based speech-to-text transcription application that converts uploaded audio files into text using a pretrained transformer model.
 
@@ -34,8 +34,11 @@ The main.py is a Streamlit-based speech-to-text transcription application that c
 
 ### Why it is useful
 This project demonstrates an end-to-end speech recognition pipeline, combining audio preprocessing, deep learning inference, and a user-friendly web interface. It showcases practical NLP applications for accessibility, transcription services, and voice-enabled interfaces, making it ideal for prototyping speech-to-text solutions. The use of pretrained models ensures high accuracy without requiring extensive training data.
+
+
 *OUTPUT*:
 https://github.com/user-attachments/assets/4dafbf61-4c40-4aef-86d1-a9f83f7f8587
+
 ## CODTECH Internship Project
 
 **Build a Basic Speech-to-Text System Using Pre-trained Models and Libraries like SpeechRecognition or Wav2Vec.**
